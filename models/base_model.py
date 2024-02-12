@@ -34,7 +34,7 @@ class BaseModel:
     def to_dict(self):
         """Returns a dictionary representation of the class for JSON serialization."""
 
-        exclude = ["my_number", "name"]
+        exclude = ["updated_at", "created_at"]
         my_dictionary = {}
         for keys, values in self.__dict__.items():
             if keys not in exclude:
