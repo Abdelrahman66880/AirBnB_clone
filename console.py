@@ -9,7 +9,7 @@ import cmd
 from uuid import uuid4
 from datetime import datetime
 from models.base_model import BaseModel
-from models.City import City
+from models.city import City
 from models.amenity import Amenity
 from models.place import Place
 from models.state import State
