@@ -1,1 +1,1 @@
-{}
+{"BaseModel.9e5da4c5-1b2f-456b-9116-76ff4a5e4f00": {"__class__": "BaseModel", "created_at": "2024-02-12T23:41:42.013363", "updated_at": "2024-02-12T23:41:42.013423", "id": "9e5da4c5-1b2f-456b-9116-76ff4a5e4f00"}, "BaseModel.1b34efb0-2ba3-4072-95c7-527d61d1be2e": {"__class__": "BaseModel", "id": "1b34efb0-2ba3-4072-95c7-527d61d1be2e", "created_at": "2024-02-12T23:43:56.121766", "updated_at": "2024-02-12T23:43:56.121774", "name": "My_First_Model", "my_number": 89}}
